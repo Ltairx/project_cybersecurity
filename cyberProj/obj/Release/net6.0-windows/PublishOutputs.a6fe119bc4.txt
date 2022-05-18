@@ -1,0 +1,5 @@
+C:\studia\projekty\Projects\cyber\cyberProj\bin\Release\net6.0-windows\publish\cyberProj.exe
+C:\studia\projekty\Projects\cyber\cyberProj\bin\Release\net6.0-windows\publish\cyberProj.dll
+C:\studia\projekty\Projects\cyber\cyberProj\bin\Release\net6.0-windows\publish\cyberProj.deps.json
+C:\studia\projekty\Projects\cyber\cyberProj\bin\Release\net6.0-windows\publish\cyberProj.runtimeconfig.json
+C:\studia\projekty\Projects\cyber\cyberProj\bin\Release\net6.0-windows\publish\cyberProj.pdb

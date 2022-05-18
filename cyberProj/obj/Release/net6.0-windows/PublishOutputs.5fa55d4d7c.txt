@@ -1,0 +1,5 @@
+C:\studia\cyberProj.exe
+C:\studia\cyberProj.dll
+C:\studia\cyberProj.deps.json
+C:\studia\cyberProj.runtimeconfig.json
+C:\studia\cyberProj.pdb

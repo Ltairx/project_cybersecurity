@@ -1,0 +1,7 @@
+C:\studia\cyberProj.pdb
+C:\studia\D3DCompiler_47_cor3.dll
+C:\studia\PenImc_cor3.dll
+C:\studia\PresentationNative_cor3.dll
+C:\studia\vcruntime140_cor3.dll
+C:\studia\wpfgfx_cor3.dll
+C:\studia\cyberProj.exe

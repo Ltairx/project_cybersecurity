@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvhuuMZN7njI/hcwWsqstkbB4XD/AV7F9A9TWWrtBHam/QfYQT7Wq7ABG/PzRxkHPQRgpgRiV0yxHy9sFZkC8g==",
+  "success": true,
+  "projectFilePath": "C:\\studia\\projekty\\Projects\\cyber\\cyberProj\\cyberProj.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\studia\\projekty\\Projects\\cyber\\cyberProj\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

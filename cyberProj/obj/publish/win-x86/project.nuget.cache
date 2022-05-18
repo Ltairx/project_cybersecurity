@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0zc09qnovRas5l5rd0uUZ5qToesVgOY6RS1oxJzNWuLz87wzLKxwaTGJC1greoJTKIMcKdxu7aR47fX2LIhnw==",
+  "success": true,
+  "projectFilePath": "C:\\studia\\projekty\\Projects\\cyber\\cyberProj\\cyberProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ltair\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.4\\microsoft.netcore.app.runtime.win-x86.6.0.4.nupkg.sha512",
+    "C:\\Users\\ltair\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.4.nupkg.sha512",
+    "C:\\Users\\ltair\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x86.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
